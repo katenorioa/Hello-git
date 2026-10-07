@@ -1,2 +1,1 @@
-print ("segunda parte este enunciado")
-print ("Hola")
+print ("nuevo")
